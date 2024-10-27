@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="Web%20Basics.css">
+</head>
+<body>
+    <header>
+        <h1><a href="index.html">Roshni Ganesh</a></h1>
+        <nav>
+        <a href="index.html">Home</a>
+        <a href="Web%20Basics%20About.html">About</a>
+        </nav>
+    </header> 
+    <div class="Artwork1">
+        <img src="Notre Dame de Paris.jpg">
+    </div>
+    <div class="AboutArtwork1">
+        <h2>Notre Dame de Paris Rose Window Exterior, Paris, France</h2>
+        <P>Salisbury Cathedral's spire is a 123-meter tall tower making it the tallest church spire in England.</P>
+        <ol>
+            <li>Medium: Microtip Pen</li> 
+            <li>Canvas: Canson 185gsm</li> 
+            <li>Size: 22.9cm x 30.5cm</li>
+        </ol>
+    </div>
+</body>
+</html>
