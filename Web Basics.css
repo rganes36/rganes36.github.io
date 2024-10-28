@@ -125,13 +125,13 @@ body {
     margin: 20px;
 }
 
-.Artwork1 {
+.Artwork1, .Artwork2, .Artwork3 {
     max-width: 100%;
     align-items: center; 
     margin-bottom: 40px;
 }
 
-.AboutArtwork1 h2 {
+.AboutArtwork1 h2, .AboutArtwork2 h2, .AboutArtwork3 h2 {
     font-family: sans-serif; 
     text-align: center;
     font-size: 30px;
@@ -140,7 +140,7 @@ body {
     color: #1D1D1D;
 }
 
-.AboutArtwork1 p {
+.AboutArtwork1 p, .AboutArtwork2 p, .AboutArtwork3 p {
     font-family: sans-serif; 
     text-align: center;
     font-size: 20px;
@@ -148,7 +148,7 @@ body {
     color: #1D1D1D;
 }
 
-.AboutArtwork1 ol {
+.AboutArtwork1 ol, .AboutArtwork2 ol, .AboutArtwork3 ol {
     font-family: sans-serif; 
     text-align: center;
     font-size: 20px;
