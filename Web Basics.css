@@ -146,7 +146,7 @@ body {
     font-size: 20px;
     text-transform: none;
     color: #1D1D1D;
-
+    line-height: 30px;
 }
 
 .AboutArtwork1 ol {
@@ -157,7 +157,7 @@ body {
     color: #1D1D1D;
     list-style: upper-roman;
     list-style-position: inside;
-
+    line-height: 30px;
 }
     
 footer {
